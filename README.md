@@ -52,16 +52,26 @@ In my opinion, the most challenging aspect of this EDA work was to be able to ob
 seeing that they would work as our filter.
 
 ```sql
-SELECT * FROM table1
-WHERE cond = 2
+WITH FILTER_FOR_TOP3_PERFORMING_INDUSTRIES AS(
+
+SELECT INDUSTRY, COUNT(COMPANY_ID)
+FROM QUALIFIED_UNICORN_COMPANY_INFO --That's where I compiled all the required information
+GROUP BY 1 
+ORDER BY 2 DESC
+LIMIT 3 --We're only interested in Top 3 Industries' names per # of Unicorns that they possess to date
+
+)
 ```
 
-Without this filter, our major custom-made table responsible for fetching necessary bits from each table would heavily be
+Without this filter, our major custom-made table responsible for fetching necessary bits from each table would be heavily
 damaged.
 
 Here below, that's where we bring our table-shaped filter to action:
 
-
+```
+SELECT x
+FROM Y
+```
 
 ### Results/Findings
 
