@@ -91,7 +91,7 @@ ORDER BY YEAR DESC, 3 DESC
 
 The analysis results are summarised as follows:
 
-1. All resulting top 3 industries are in one way or another tech-related, such as:
+1. All resulting top 3 industries are in one way or another tech-related, as follows:
 
 |Top 3 Industries|
 |--------|
