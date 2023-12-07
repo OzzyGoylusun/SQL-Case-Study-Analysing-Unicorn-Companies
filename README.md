@@ -41,9 +41,9 @@ Within the scope of this case study, no data cleaning/handling tasks were needed
 
 EDA predominantly involved exploring the Unicorns database to answer key questions, such as:
 
-1. XXX
-
-
+1. What are the top mysterious three industries based upon the number of unicorn companies up to date?
+2. What are the average valuations in billions for these top 3 industries, separately calculated for the years 2019, 2020 and 2021?
+3. How many unicorn companies do the top 3 industries possess, only for the years 2019, 2020 and 2021?
 
 
 ### Data Analysis
