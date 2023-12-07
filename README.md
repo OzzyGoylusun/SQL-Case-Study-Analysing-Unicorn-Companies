@@ -3,6 +3,7 @@
 ## Ancillary Table of Contents
 
 - [Exploratory Data Analysis (EDA)](#ExploratoryDataAnalysis(EDA))
+- [Results/Findings](#Results/Findings)
 - [Recommendations](#Recommendations)
 
 
@@ -68,14 +69,34 @@ damaged.
 
 Here below, that's where we bring our table-shaped filter to action:
 
-```
-SELECT x
-FROM Y
+```sql
+SELECT DISTINCT INDUSTRY, 
+		YEAR,
+		COUNT(COMPANY_ID) AS NUM_UNICORNS,
+		ROUND(AVG(VALUATION) / 1000000000, 2) AS AVERAGE_VALUATION_BILLIONS 
+				
+FROM QUALIFIED_UNICORN_COMPANY_INFO --That's where I compiled all the required information, 
+--including only the years 2019, 2020 and 2021 data required by the case study
+
+WHERE INDUSTRY IN( --The WHERE Statement to execute our custom-made filter
+	SELECT INDUSTRY
+	FROM FILTER_FOR_TOP3_PERFORMING_INDUSTRIES --Our filter table
+	)
+
+GROUP BY INDUSTRY, YEAR
+ORDER BY YEAR DESC, 3 DESC
 ```
 
 ### Results/Findings
 
 The analysis results are summarised as follows:
+
+1. All resulting top 3 industries are in one way or another tech-related, such as:
+  - Fintech
+  - Internet Software & Services
+  - E-Commerce & Direct-to-Consumer
+    
+2. Compared to the years 2019 and 2020, in the year
 
 
 
@@ -86,12 +107,7 @@ Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions during peak sales seasons to maximize revenue.
 
 
-### Limitations
-
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a
-few outliers even after the omissions but even then we can still see that there is a positive correlatation between both budget and number of votes with revenue.
-
 ### References
 
-1. 
+1. DataCamp
 
