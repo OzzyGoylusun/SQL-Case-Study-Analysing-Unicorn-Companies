@@ -48,12 +48,20 @@ EDA predominantly involved exploring the Unicorns database to answer key questio
 
 ### Data Analysis
 
-In my opinion, the most challenging aspect of EDA was to be able to obtain those 
+In my opinion, the most challenging aspect of this EDA work was to be able to obtain those top 3 industries' names,
+seeing that they would work as our filter.
 
 ```sql
 SELECT * FROM table1
 WHERE cond = 2
 ```
+
+Without this filter, our major custom-made table responsible for fetching necessary bits from each table would heavily be
+damaged.
+
+Here below, that's where we bring our table-shaped filter to action:
+
+
 
 ### Results/Findings
 
