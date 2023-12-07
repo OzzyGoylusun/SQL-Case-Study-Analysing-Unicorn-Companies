@@ -73,7 +73,7 @@ Here below, that's where we bring our table-shaped filter to action:
 SELECT DISTINCT INDUSTRY, 
 		YEAR,
 		COUNT(COMPANY_ID) AS NUM_UNICORNS,
-		ROUND(AVG(VALUATION) / 1000000000, 2) AS AVERAGE_VALUATION_BILLIONS 
+		ROUND(AVG(VALUATION) / 1000000000, 2) AS AVERAGE_VALUATION_IN_BILLIONS 
 				
 FROM QUALIFIED_UNICORN_COMPANY_INFO --That's where I compiled all the required information, 
 --including only the years 2019, 2020 and 2021 data required by the case study
@@ -107,7 +107,7 @@ The analysis results are summarised as follows:
 Based on the analysis, we recommend the following actions:
 
 - Concentrate most efforts on these resulting industries while discovering more potential unicorn companies.
-- 
+- Note that increasing number of unicorns seems to have a negative correlation with corresponding industries' average valuation in billions.
 
 
 ### References
