@@ -71,9 +71,9 @@ Here below, that's where we bring our table-shaped filter to action:
 
 ```sql
 SELECT DISTINCT INDUSTRY, 
-		YEAR,
-		COUNT(COMPANY_ID) AS NUM_UNICORNS,
-		ROUND(AVG(VALUATION) / 1000000000, 2) AS AVERAGE_VALUATION_IN_BILLIONS 
+	YEAR,
+	COUNT(COMPANY_ID) AS NUM_UNICORNS,
+	ROUND(AVG(VALUATION) / 1000000000, 2) AS AVERAGE_VALUATION_IN_BILLIONS 
 				
 FROM QUALIFIED_UNICORN_COMPANY_INFO --That's where I compiled all the required information, 
 --including only the years 2019, 2020 and 2021 data required by the case study
