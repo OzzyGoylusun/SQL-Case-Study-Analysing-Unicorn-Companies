@@ -8,6 +8,7 @@
 
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspoects of the sales data,
 we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
@@ -80,5 +81,21 @@ few outliers even after the omissions but even then we can still see that there 
 1. SQL for Businesses by Werty. (Book Name)
 2. [PostgreSQL: TimeSeries](https://www.postgresql.org/docs/current/functions-datetime.html#FUNCTIONS-DATETIME-TABLE)
 
+ To make emojis and such
+😄:smilee     
+💻 
 
+To create a table
+|Heading1|Heading2| 
+|--------|--------|
+|Content|Content2|
+|Python|SQL|
 
+To write a code
+`column_1` 
+
+To make a text bold
+**bold**  
+
+To make a text italic
+*italic*  
