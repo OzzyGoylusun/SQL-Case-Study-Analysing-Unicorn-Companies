@@ -107,7 +107,7 @@ The analysis results are summarised as follows:
 Based on the analysis, we recommend the following actions:
 
 - Concentrate most efforts on these resulting industries while discovering more potential unicorn companies.
-- Note that increasing number of unicorns seems to have a negative correlation with corresponding industries' average valuation in billions.
+- Take into account that increasing number of unicorns seems to have a negative correlation with corresponding industries' average valuation in billions.
 
 
 ### References
