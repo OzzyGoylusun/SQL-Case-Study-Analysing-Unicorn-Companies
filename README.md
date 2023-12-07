@@ -1,6 +1,6 @@
 # SQL Case Study: Analysing Unicorn Companies
 
-## Table of Contents
+## Ancillary Table of Contents
 
 - [Exploratory Data Analysis (EDA)](#ExploratoryDataAnalysis(EDA))
 - [Recommendations](#Recommendations)
