@@ -96,7 +96,9 @@ The analysis results are summarised as follows:
   - Internet Software & Services
   - E-Commerce & Direct-to-Consumer
     
-2. Compared to the years 2019 and 2020, in the year
+2. Compared to 2019 and 2020, all these three industries in 2021 experienced three-to-six-fold increases in the total number of unicorns
+   
+3. The increasing number of unicorns for each industry however caused the industries at stake to go down in average valuations.
 
 
 
