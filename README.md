@@ -43,11 +43,12 @@ EDA predominantly involved exploring the Unicorns database to answer key questio
 
 1. What are the top mysterious three industries based upon the number of unicorn companies up to date?
 2. What are the average valuations in billions for these top 3 industries, separately calculated for the years 2019, 2020 and 2021?
-3. How many unicorn companies do the top 3 industries possess, only for the years 2019, 2020 and 2021?
+3. How many unicorn companies do the top 3 industries possess, solely for the years 2019, 2020 and 2021?
 
 
 ### Data Analysis
 
+In my opinion, the most challenging aspect of EDA was to be able to obtain those 
 
 ```sql
 SELECT * FROM table1
