@@ -13,7 +13,7 @@
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspoects of the sales data,
 we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-<<AN IMAGE COULD ALSO GO HERE TO SHOW THE AUDIENCE HOW OUR ENDGAME PROJECT WORK VISUALLY LOOKS LIKE>>
+AN IMAGE COULD ALSO GO HERE TO SHOW THE AUDIENCE HOW OUR ENDGAME PROJECT WORK VISUALLY LOOKS LIKE
 
 ### Data Sources
 
