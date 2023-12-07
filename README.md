@@ -12,6 +12,8 @@
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspoects of the sales data,
 we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+<<AN IMAGE COULD ALSO GO HERE TO SHOW THE AUDIENCE HOW OUR ENDGAME PROJECT WORK VISUALLY LOOKS LIKE>>
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
@@ -38,6 +40,9 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What is the overall sales trend?
 - Which products are top sellers?
 - What are the peak sales periods?
+
+<img width="892" alt="Example Pic" src="https://github.com/OzzyGoylusun/SQL-Case-Study-Analysing-Unicorn-Companies/assets/152992554/7fef48e9-12aa-425e-8394-72a1de395ef2">
+
 
 ### Data Analysis
 
