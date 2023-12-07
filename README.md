@@ -92,9 +92,12 @@ ORDER BY YEAR DESC, 3 DESC
 The analysis results are summarised as follows:
 
 1. All resulting top 3 industries are in one way or another tech-related, such as:
-  - Fintech
-  - Internet Software & Services
-  - E-Commerce & Direct-to-Consumer
+
+|Top 3 Industries|
+|--------|
+|Fintech|
+|Internet Software & Services|
+|E-Commerce & Direct-to-Consumer|
     
 2. Compared to 2019 and 2020, all these three industries in 2021 experienced three-to-six-fold increases in the total number of unicorns
    
