@@ -1,19 +1,21 @@
 # SQL Case Study: Analysing Unicorn Companies
 
-## Table of Contents (EXAMPLE)
+## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
+- 
 - [Recommendations](#recommendations)
 
 
-### Project Overview
+### Case Study Overview
 ---
 
-This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspoects of the sales data,
-we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This case study encourages data analysts to support an angel investment firm by discovering top 3 performing industries in terms of **the highest number of unicorn companies that they have had within their scope up to now**. In the world of finance, “*the term unicorn refers to a privately held startup company with a value of over $1 billion*.”
 
-AN IMAGE COULD ALSO GO HERE TO SHOW THE AUDIENCE HOW OUR ENDGAME PROJECT WORK VISUALLY LOOKS LIKE
+As well as discovering what those top industries are, an exploration work of average valuation in billions and number of unicorns was required to undertake, in order to identify trends toward where high-growth companies mostly stem from.
+
+
+
+
 
 ### Data Sources
 
@@ -36,18 +38,12 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis (EDA)
 
-EDA involved exploring the sales data to answer key questions, such as:
-
-- What is the overall sales trend?
-- Which products are top sellers?
-- What are the peak sales periods?
 
 <img width="892" alt="Example Pic" src="https://github.com/OzzyGoylusun/SQL-Case-Study-Analysing-Unicorn-Companies/assets/152992554/7fef48e9-12aa-425e-8394-72a1de395ef2">
 
 
 ### Data Analysis
 
-Include some interesting code/features worked with
 
 ```sql
 SELECT * FROM table1
@@ -57,45 +53,22 @@ WHERE cond = 2
 ### Results/Findings
 
 The analysis results are summarised as follows:
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+
+
 
 ### Recommendations
-
-This part actually empowers data analysts to provide value to the firms for which they are undertaking work.
 
 Based on the analysis, we recommend the following actions:
 
 - Invest in marketing and promotions during peak sales seasons to maximize revenue.
-- Focus on expanding and promoting products in Category A.
-- Implement a customer segmentation strategy to target high-LTV customers effectively.
 
-### Limitations: Records that you have been compelled to take out of your analysis (e.g., outliers, NaNs etc.). This can help you work as your Disclaimer.
+
+### Limitations
 
 I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a
 few outliers even after the omissions but even then we can still see that there is a positive correlatation between both budget and number of votes with revenue.
 
-### References: Let's say you checked something online, Googled, or simply source of your data and case study content etc.
+### References
 
-1. SQL for Businesses by Werty. (Book Name)
-2. [PostgreSQL: TimeSeries](https://www.postgresql.org/docs/current/functions-datetime.html#FUNCTIONS-DATETIME-TABLE)
+1. 
 
- To make emojis and such
-😄:smilee     
-💻 
-
-To create a table
-|Heading1|Heading2| 
-|--------|--------|
-|Content|Content2|
-|Python|SQL|
-
-To write a code
-`column_1` 
-
-To make a text bold
-**bold**  
-
-To make a text italic
-*italic*  
