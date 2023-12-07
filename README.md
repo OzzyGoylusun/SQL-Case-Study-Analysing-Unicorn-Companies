@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- 
-- [Recommendations](#recommendations)
+- [Exploratory Data Analysis (EDA)](#ExploratoryDataAnalysis(EDA))
+- [Recommendations](#Recommendations)
 
 
 ### Case Study Overview
@@ -23,15 +23,18 @@ The database named after *Unicorns* utilised for this project is hosted at DataC
 <img width="456" alt="Screen Shot 2023-12-07 at 13 51 45" src="https://github.com/OzzyGoylusun/SQL-Case-Study-Analysing-Unicorn-Companies/assets/152992554/63ad1d64-3fe7-418f-bd7b-5884e2cb855d">
 <img width="480" alt="Screen Shot 2023-12-07 at 13 51 38" src="https://github.com/OzzyGoylusun/SQL-Case-Study-Analysing-Unicorn-Companies/assets/152992554/2035f337-87a4-4c79-bb42-3e3a9150dad7">
 
+
 ### Tools
 
 - PostgreSQL Server - Data Analysis
   - [Download Here](https://www.postgresql.org/download/)
   
 
+
 ### Data Cleaning/Preparation
 
 Within the scope of this case study, no data cleaning/handling tasks were needed to conduct.
+
 
 
 ### Exploratory Data Analysis (EDA)
