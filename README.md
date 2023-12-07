@@ -106,7 +106,8 @@ The analysis results are summarised as follows:
 
 Based on the analysis, we recommend the following actions:
 
-- Invest in marketing and promotions during peak sales seasons to maximize revenue.
+- Concentrate most efforts on these resulting industries while discovering more potential unicorn companies.
+- 
 
 
 ### References
