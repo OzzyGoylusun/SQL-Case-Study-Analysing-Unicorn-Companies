@@ -71,7 +71,7 @@ LIMIT 3 --We're only interested in Top 3 industries' names per # of Unicorns tha
 Without this filter, our major custom-made table responsible for fetching necessary bits from each table would also be heavily
 damaged.
 
-Here below, that's where we bring our table-shaped filter to action:
+Here below, that's where we bring our table-shaped filter into action:
 
 ```sql
 SELECT DISTINCT INDUSTRY, 
