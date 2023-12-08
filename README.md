@@ -10,7 +10,7 @@
 ### Case Study Overview
 ---
 
-This case study asks data analysts to support an angel investment firm by discovering top 3 performing industries in terms of **the highest number of unicorn companies that they have had within their scope up to now**. In the world of finance, “*the term unicorn refers to a privately held startup company with a value of over $1 billion*.”
+This case study asks data analysts to support an angel investment firm by discovering top 3 performing industries in terms of **the highest number of unicorn companies that they have had to now**. In the world of finance, “*the term unicorn refers to a privately held startup company with a value of over $1 billion*.”
 
 As well as discovering what those top industries are, an exploration work of average valuation in billions and number of unicorns for the years 2019, 2020 and 2021 per the top 3 was undertaken, in order to identify trends towards where high-growth companies mostly stem from.
 
