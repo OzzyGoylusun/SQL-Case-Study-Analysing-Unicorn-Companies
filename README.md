@@ -7,7 +7,6 @@
 - [Recommendations](#Recommendations)
 
 ### Medium Article Published
---- 
 [Beauty of Custom-Made Filters](https://medium.com/@goylusun/ozzys-sql-intricacies-exploration-series-1-deploying-custom-made-filter-on-a-unicorn-companies-219db68809b6)
 
 
