@@ -59,7 +59,7 @@ SELECT INDUSTRY, COUNT(COMPANY_ID)
 FROM QUALIFIED_UNICORN_COMPANY_INFO --That's where I compiled all the required information
 GROUP BY 1 
 ORDER BY 2 DESC
-LIMIT 3 --We're only interested in Top 3 Industries' names per # of Unicorns that they possess to date
+LIMIT 3 --We're only interested in Top 3 industries' names per # of Unicorns that they possess to date
 
 )
 ```
