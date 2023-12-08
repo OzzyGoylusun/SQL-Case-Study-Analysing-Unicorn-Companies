@@ -51,8 +51,10 @@ EDA predominantly involved exploring the Unicorns database to answer key questio
 
 ### Data Analysis
 
-In my opinion, the most challenging aspect of this EDA work was to be able to obtain those top 3 industries' names,
-seeing that they would work as our filter.
+In my opinion, the most challenging aspect of this EDA work was to recognise that without obtaining those top 3 industries' names as our filter, 
+it would make it almost an impossible mission to achieve the requested outcome.
+
+In accordance with this recognition, I decided to create a table-shaped filter below only accountable for obtaining the names:
 
 ```sql
 WITH FILTER_FOR_TOP3_PERFORMING_INDUSTRIES AS(
@@ -66,7 +68,7 @@ LIMIT 3 --We're only interested in Top 3 industries' names per # of Unicorns tha
 )
 ```
 
-Without this filter, our major custom-made table responsible for fetching necessary bits from each table would be heavily
+Without this filter, our major custom-made table responsible for fetching necessary bits from each table would also be heavily
 damaged.
 
 Here below, that's where we bring our table-shaped filter to action:
