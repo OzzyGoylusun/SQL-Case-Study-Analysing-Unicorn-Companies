@@ -31,7 +31,7 @@ Fundamentally, the database consists of the following four tables:
 <img width="480" alt="Screen Shot 2023-12-07 at 13 51 38" src="https://github.com/OzzyGoylusun/SQL-Case-Study-Analysing-Unicorn-Companies/assets/152992554/2035f337-87a4-4c79-bb42-3e3a9150dad7">
 
 
-### Tools Leveraged
+### Tools
 
 - PostgreSQL Server - Data Analysis
   - [Download Here](https://www.postgresql.org/download/)
