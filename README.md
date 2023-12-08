@@ -12,7 +12,9 @@
 
 This case study asks data analysts to support an angel investment firm by discovering top 3 performing industries in terms of **the highest number of unicorn companies that they have had up to now**. In the world of finance, “*the term unicorn refers to a privately held startup company with a value of over $1 billion*.”
 
-As well as discovering what those top industries are, an exploration work of average valuation in billions and number of unicorns per these top 3 for the years 2019, 2020 and 2021 was also undertaken. These activities were in order to asist the organisation with pre-emptively identifying trends towards from which industries more and more high-growth companies could most likely breed in future.
+As well as discovering what those top industries are, an exploration work of average valuation in billions and number of unicorns per these top 3 for the years 2019, 2020 and 2021 was also undertaken. 
+
+These activities were in order to asist the organisation with pre-emptively identifying trends towards from which industries more and more high-growth companies could most likely breed in future.
 
 
 ### Data Source
