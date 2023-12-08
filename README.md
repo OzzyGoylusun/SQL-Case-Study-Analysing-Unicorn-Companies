@@ -93,7 +93,7 @@ ORDER BY YEAR DESC, 3 DESC
 
 ### Findings
 
-The analysis results are summarised as follows:
+Our data analysis results are summarised as follows:
 
 1. All resulting top 3 industries are in one way or another tech-related, as follows:
 
