@@ -54,7 +54,7 @@ EDA predominantly involved exploring the Unicorns database to answer key questio
 In my opinion, the most challenging aspect of this EDA work was to recognise that without obtaining those top 3 industries' names first,
 it would make it almost an impossible mission to achieve the requested outcome.
 
-Accordingly, I decided to create a table-shaped filter below only accountable for obtaining the names:
+Accordingly, I decided to create a table-shaped filter below only accountable for obtaining those names:
 
 ```sql
 WITH FILTER_FOR_TOP3_PERFORMING_INDUSTRIES AS(
