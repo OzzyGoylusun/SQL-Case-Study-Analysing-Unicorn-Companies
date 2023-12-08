@@ -49,3 +49,6 @@ WHERE INDUSTRY IN( --Execution of our magical filter
 
 GROUP BY INDUSTRY, YEAR
 ORDER BY YEAR DESC, 3 DESC
+
+
+--Coded by Ozzy Goylusun (OG)
