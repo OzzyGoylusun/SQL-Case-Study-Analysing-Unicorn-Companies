@@ -68,7 +68,7 @@ LIMIT 3 --We're only interested in Top 3 industries' names per # of Unicorns tha
 )
 ```
 
-Without this filter, our major custom-made table responsible for fetching necessary bits from each table would also be heavily
+Without this filter, our major custom-made table responsible for fetching the necessary bits from each table would also be heavily
 damaged.
 
 Here below, that's where we bring our table-shaped filter into action:
