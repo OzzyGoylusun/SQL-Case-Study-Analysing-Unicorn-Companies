@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Data Analysis](#Data_Analysis)
+- [Exploratory Data Analysis (EDA)](#Exploratory_Data_Analysis_(EDA))
 - [Findings](#Findings)
 - [Recommendations](#Recommendations)
 
@@ -38,7 +38,7 @@ Within the scope of this case study, no data cleaning/handling tasks were needed
 
 
 
-### Exploratory Data Analysis (EDA)
+### Exploratory_Data_Analysis_(EDA)
 
 EDA predominantly involved exploring the Unicorns database to answer key questions, such as:
 
