@@ -101,15 +101,15 @@ Our data analysis results are summarised as follows:
 
 1. All resulting top 3 industries are in one way or another tech-related, as follows:
 
-|Top 3 Industries|
-|--------|
-|Fintech|
-|Internet Software & Services|
-|E-Commerce & Direct-to-Consumer|
+	|Top 3 Industries|
+	|--------|
+	|Fintech|
+	|Internet Software & Services|
+	|E-Commerce & Direct-to-Consumer|
     
-2. Compared to 2019 and 2020, all these three industries in 2021 experienced three-to-six-fold increases in the total number of unicorns that they gained.
+3. Compared to 2019 and 2020, all these three industries in 2021 experienced three-to-six-fold increases in the total number of unicorns that they gained.
    
-3. The increasing number of unicorns for each industry however caused the sectors at stake to go down in average valuations.
+4. The increasing number of unicorns for each industry however caused the sectors at stake to go down in average valuations.
 
 
 
