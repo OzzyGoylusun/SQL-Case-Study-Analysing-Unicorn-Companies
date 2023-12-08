@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Exploratory Data Analysis (EDA)](#ExploratoryDataAnalysis(EDA))
+- [Data Analysis](#DataAnalysis)
 - [Findings](#Findings)
 - [Recommendations](#Recommendations)
 
