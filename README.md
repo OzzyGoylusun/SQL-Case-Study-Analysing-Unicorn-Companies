@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Exploratory Data Analysis (EDA)](#ExploratoryDataAnalysis(EDA))
-- [Results/Findings](#Results/Findings)
+- [Findings](#Findings)
 - [Recommendations](#Recommendations)
 
 
@@ -87,7 +87,7 @@ GROUP BY INDUSTRY, YEAR
 ORDER BY YEAR DESC, 3 DESC
 ```
 
-### Results/Findings
+### Findings
 
 The analysis results are summarised as follows:
 
