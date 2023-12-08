@@ -47,7 +47,7 @@ EDA predominantly involved exploring the Unicorns database to answer key questio
 3. How many unicorn companies do the top 3 industries possess, solely for the years 2019, 2020 and 2021?
 
 
-### Data_Analysis
+### Data Analysis
 
 In my opinion, the most challenging aspect of this EDA work was to be able to obtain those top 3 industries' names,
 seeing that they would work as our filter.
