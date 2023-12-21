@@ -130,4 +130,6 @@ Based on the analysis, I recommend the following actions:
 ### References
 
 1. [DataCamp](https://www.datacamp.com/)
+2. [CyberSec Unicorns by Gené Teare](https://news.crunchbase.com/venture/unicorn-board-october-2023-cybersecurity/)
+
 
