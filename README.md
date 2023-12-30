@@ -36,6 +36,10 @@ Fundamentally, the database consists of the following four tables:
   <img width="410" alt="Funding DB" src="https://raw.githubusercontent.com/OzzyGoylusun/SQL.-Case-Study-Analysing-Unicorn-Companies/main/Visuals/Funding%20DB.png">
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+  <img width="410" alt="Industries DB" src="https://github.com/OzzyGoylusun/SQL.-Case-Study-Analysing-Unicorn-Companies/blob/main/Visuals/Industries%20DB.png"> 
+  <img width="410" alt="Companies DB" src="https://github.com/OzzyGoylusun/SQL.-Case-Study-Analysing-Unicorn-Companies/blob/main/Visuals/Companies%20DB.png">
+</div>
 
 
 ### Tools
