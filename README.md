@@ -31,6 +31,11 @@ The database, named after *Unicorns*, utilised for this project is hosted at Dat
 
 Fundamentally, the database consists of the following four tables:
 
+<div style="display: flex; justify-content: space-between;">
+  <img width="487" alt="Dates DB" src="https://github.com/OzzyGoylusun/SQL.-Case-Study-Analysing-Unicorn-Companies/blob/main/Visuals/Dates%20DB.png">
+  <img width="480" alt="Funding DB" src="https://github.com/OzzyGoylusun/SQL.-Case-Study-Analysing-Unicorn-Companies/blob/main/Visuals/Funding%20DB.png">
+</div>
+
 
 ### Tools
 
