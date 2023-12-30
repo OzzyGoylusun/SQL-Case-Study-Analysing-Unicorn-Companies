@@ -16,7 +16,7 @@ This case study asks data analysts to support an angel investment firm by discov
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/SQL.-Case-Study-Analysing-Unicorn-Companies/blob/main/Visuals/Financial%20Unicorn.png"
- alt="Financial Unicorn">
+ alt="Financial Unicorn" width="800">
 </p>
 
 
