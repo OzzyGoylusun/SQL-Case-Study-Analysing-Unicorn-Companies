@@ -31,11 +31,6 @@ The database, named after *Unicorns*, utilised for this project is hosted at Dat
 
 Fundamentally, the database consists of the following four tables:
 
-<img width="487" alt="Screen Shot 2023-12-07 at 13 51 48" src="https://github.com/OzzyGoylusun/SQL-Case-Study-Analysing-Unicorn-Companies/assets/152992554/0290b79a-f30d-4fb4-9656-06a2d92b0717">
-<img width="480" alt="Screen Shot 2023-12-07 at 13 51 41" src="https://github.com/OzzyGoylusun/SQL-Case-Study-Analysing-Unicorn-Companies/assets/152992554/9896ef92-7cdd-4cbf-b953-43a73ec959b5">
-<img width="456" alt="Screen Shot 2023-12-07 at 13 51 45" src="https://github.com/OzzyGoylusun/SQL-Case-Study-Analysing-Unicorn-Companies/assets/152992554/63ad1d64-3fe7-418f-bd7b-5884e2cb855d">
-<img width="480" alt="Screen Shot 2023-12-07 at 13 51 38" src="https://github.com/OzzyGoylusun/SQL-Case-Study-Analysing-Unicorn-Companies/assets/152992554/2035f337-87a4-4c79-bb42-3e3a9150dad7">
-
 
 ### Tools
 
