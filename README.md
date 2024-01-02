@@ -12,7 +12,7 @@
 ### Case Study Overview
 ---
 
-This case study asks data analysts to support an angel investment firm by discovering top 3 performing industries in terms of **the highest number of unicorn companies that they have had up to now**. In the world of finance, “*the term unicorn refers to a privately held startup company with a value of over $1 billion*.”
+This case study asks data analysts to support an angel investment firm by discovering top 3 performing industries in terms of **the highest number of unicorn companies that they have had up to now**. In the world of finance, "*the term unicorn refers to a privately held startup company with a value of over $1 billion*."
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/SQL.-Case-Study-Analysing-Unicorn-Companies/blob/main/Visuals/Financial%20Unicorn.png"
